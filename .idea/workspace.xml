@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d1f2f28-1de5-4eb6-a0cd-cc02cd956e91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Cart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FooterBanner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeroBanner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/.checksums" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/@sanity/data-aspects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/@sanity/default-layout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/@sanity/default-login.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/@sanity/form-builder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/config/@sanity/vision.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/plugins/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/sanity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/schemas/banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/schemas/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/schemas/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity_ecommerce/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HLPOHyfGrJMtvFrNdqIKbksYjq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1f2f28-1de5-4eb6-a0cd-cc02cd956e91" name="Changes" comment="" />
+      <created>1668061356960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668061356960</updated>
+      <workItem from="1668061366734" duration="92000" />
+      <workItem from="1668072982681" duration="4840000" />
+      <workItem from="1668092267045" duration="7224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
